@@ -95,8 +95,11 @@ header img{
 }
 
 .textC {
-    border-bottom: 1px solid #000000;
     width: 154px;
+}
+
+a{
+    color: #333333;
 }
 
 /* footer */
