@@ -27,8 +27,9 @@ header img{
 
 
 /* main */
-.main1 img{
+.main1 {
     margin-bottom: 55px;
+    object-fit: cover;
 }
 
 .main2 li{
